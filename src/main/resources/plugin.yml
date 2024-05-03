@@ -1,0 +1,4 @@
+name: DisableArrowDespawn
+version: '${project.version}'
+main: ru.muravlevas.disablearrowdespawn.DisableArrowDespawn
+api-version: '1.20'
